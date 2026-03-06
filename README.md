@@ -61,3 +61,9 @@ Local testing vs. prod paths
 
 - Cause: MLflow artifact URIs differ locally vs. in container.
 - Fixes: For local dev, load via direct ./mlruns/.../artifacts/model; in prod, container loads the packaged model path used at build time.
+
+## Glimpses of the project
+<img width="1600" height="749" alt="image" src="https://github.com/user-attachments/assets/8ce3059c-dce4-4fee-aa5c-3ff780eea452" />
+<img width="1600" height="624" alt="image" src="https://github.com/user-attachments/assets/a72678aa-5665-4ea5-96ac-e83b7e9d12b9" />
+
+
